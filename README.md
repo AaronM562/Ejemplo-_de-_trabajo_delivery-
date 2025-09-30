@@ -50,7 +50,6 @@ Este proyecto estará basado en la **metodología SCRUM** para la gestión y org
 
 | Sprint | Duración | Objetivo principal |
 |--------|----------|--------------------|
-| **Sprint 1** | Semana 1 | desarrollo de las primeras pantallas (Inicio de sesion, registro y pantalla principal), ademas de esto se estara 
-  creando la ramificacion de la base de datos para su posterior uso y codificacion |
+| **Sprint 1** | Semana 1 | desarrollo de las primeras pantallas (Inicio de sesion, registro y pantalla principal), ademas de esto se estara creando la ramificacion de la base de datos para su posterior uso y codificacion |
 
 
