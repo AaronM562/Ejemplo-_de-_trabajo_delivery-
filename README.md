@@ -50,18 +50,7 @@ Este proyecto estará basado en la **metodología SCRUM** para la gestión y org
 
 | Sprint | Duración | Objetivo principal |
 |--------|----------|--------------------|
-| **Sprint 1** | Semana 1 | Planificación inicial y diseño de pantallas en Figma. |
-| **Sprint 2** | Semana 2 | Definición de flujo de trabajo y tableros en Trello. |
-| **Sprint 3** | Semana 3 | Desarrollo inicial del proyecto y SCRUMs diarios. |
-| **Sprint 4** | Semana 4 | Ajustes, correcciones y documentación. |
+| **Sprint 1** | Semana 1 | desarrollo de las primeras pantallas (Inicio de sesion, registro y pantalla principal), ademas de esto se estara 
+  creando la ramificacion de la base de datos para su posterior uso y codificacion |
 
----
 
-## 👥 SCRUM Diario  
-
-Cada integrante del equipo deberá responder:  
-1. ✅ ¿Qué hice ayer?  
-2. 🔄 ¿Qué haré hoy?  
-3. ⚠️ ¿Qué obstáculos tengo?  
-
----
